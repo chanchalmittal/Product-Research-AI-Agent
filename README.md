@@ -49,7 +49,7 @@ This system analyzes patent data to identify trends and predict future innovatio
 ### Installation
 1. Clone the repository:
 ```
-git clone https://github.com/yesdeepakmittal/product-research-ai-agent.git
+git clone https://github.com/chanchalmittal/product-research-ai-agent.git
 cd product-research-ai-agent
 ```
 
